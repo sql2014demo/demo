@@ -28,6 +28,6 @@
     [ETLLoadID]            INT            NULL,
     [LoadDate]             DATETIME       NULL,
     [UpdateDate]           DATETIME       NULL, 
-    [IsActive] BIT NOT NULL
+    [IsActive] BIT NULL
 );
 
