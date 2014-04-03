@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [Robert]
+    WITH PASSWORD = N'^nfnetkcymolwsZg|:nab`ePmsFT7_&#$!~<dt;fvntRJFyK', SID = 0x98BC4341E1F2B04D88B8BCB8D29D18BF, DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
+
