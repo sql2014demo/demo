@@ -27,6 +27,7 @@
     [CompanyName]          NVARCHAR (100) NULL,
     [ETLLoadID]            INT            NULL,
     [LoadDate]             DATETIME       NULL,
-    [UpdateDate]           DATETIME       NULL
+    [UpdateDate]           DATETIME       NULL, 
+    [IsActive] BIT NULL
 );
 
